@@ -1,7 +1,12 @@
 # web
- Paralax-Code mit anderen Effekten
- uso bootsrap 4
- awsomes fonts
- google fonts
- @mediaquerys
  
+ Paralax effect and different movements and positioning
+ Flexbox
+ bootsrap 
+ variables css
+ awesomes fonts
+ google fonts
+ @mediaqueries
+ js
+ 
+creado en Berlin
